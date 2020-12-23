@@ -1,0 +1,549 @@
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 00:00:13 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 00:00:13 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 00:00:13 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 1 ms
+12 16, 2020 00:00:13 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 00:00:13 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 00:14:59 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 00:14:59 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 00:14:59 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 1 ms
+12 16, 2020 00:14:59 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 00:14:59 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 00:23:05 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 00:23:05 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 00:23:05 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 0 ms
+12 16, 2020 00:23:05 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 00:23:05 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 11:23:52 上午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 0 ms
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 11:23:52 上午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 14:02:33 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 0 ms
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 14:02:33 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 14:48:07 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 1 ms
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 14:48:08 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : OS Version:		10.16
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 15:16:44 下午 cn.diytomcat.Bootstrap logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 1 ms
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 15:16:44 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 148 ms
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 15:52:06 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 150 ms
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 0 ms
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 16:26:36 下午 cn.diytomcat.catalina.Server error
+ERROR: Address already in use (Bind failed)
+java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at cn.diytomcat.catalina.Server.init(Server.java:39)
+	at cn.diytomcat.catalina.Server.start(Server.java:33)
+	at cn.diytomcat.Bootstrap.main(Bootstrap.java:8)
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 141 ms
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 0 ms
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 16:34:20 下午 cn.diytomcat.catalina.Server error
+ERROR: Address already in use (Bind failed)
+java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at cn.diytomcat.catalina.Server.init(Server.java:39)
+	at cn.diytomcat.catalina.Server.start(Server.java:33)
+	at cn.diytomcat.Bootstrap.main(Bootstrap.java:8)
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 136 ms
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 0 ms
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 16:35:14 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 137 ms
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 21:26:41 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 21:26:48 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.catalina.Server$1.run(Server.java:59)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 169 ms
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 23:52:48 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:53:00 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 148 ms
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 0 ms
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 16, 2020 23:57:54 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 16, 2020 23:58:03 下午 cn.diytomcat.catalina.Server$1 error
+ERROR: 
+java.lang.NullPointerException
+	at cn.diytomcat.http.Request.<init>(Request.java:32)
+	at cn.diytomcat.catalina.Server$1.run(Server.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

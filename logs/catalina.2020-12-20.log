@@ -1,0 +1,1246 @@
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 6 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in166 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 0 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in4 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 0 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in2 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 0 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in2 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context deploy
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 4 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in5 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 15:27:30 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 15:27:54 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 16:48:14 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:38)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in168 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in7 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in0 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in2 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in5 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 17:06:56 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+12 20, 2020 17:07:40 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:08:22 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:09:16 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@14edcb83检测到了web应用下的重要文件变化HelloServlet.class
+12 20, 2020 17:09:16 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name[/javaweb] has started
+12 20, 2020 17:09:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:09:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in9 ms
+12 20, 2020 17:09:16 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name[/javaweb] has completed
+12 20, 2020 17:09:22 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in211 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in15 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in1 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in2 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in7 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 17:12:42 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+12 20, 2020 17:12:50 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in295 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in15 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in3 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in4 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in9 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 17:16:13 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+12 20, 2020 17:16:23 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in174 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in5 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in4 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in1 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in3 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 17:40:59 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 248 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 15 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 6 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 17:58:32 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+12 20, 2020 17:58:42 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:00:02 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@3fabd82b 检测到了Web应用下的重要文件变化 HelloServlet.class 
+12 20, 2020 18:00:02 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 18:00:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:00:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 25 ms
+12 20, 2020 18:00:02 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+12 20, 2020 18:00:10 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:01:28 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:06:22 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 216 ms
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 13 ms
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 3 ms
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 6 ms
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 18:06:50 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+12 20, 2020 18:07:00 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:07:20 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 201 ms
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 9 ms
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 2 ms
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 3 ms
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 8 ms
+12 20, 2020 18:07:28 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 18:07:29 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 18:08:02 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 164 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 7 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 3 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 4 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 18:14:16 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 18:14:28 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:37)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 163 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 7 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 3 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 5 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 18:19:02 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 18:19:11 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 175 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 8 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 3 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 4 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 4 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 18:20:25 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 18:20:32 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 175 ms
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 13 ms
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 19:20:24 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 3 ms
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 3 ms
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 5 ms
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 19:20:25 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 19:20:31 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 160 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 6 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 8 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 22:13:00 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+12 20, 2020 22:13:09 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 22:32:10 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@30995a2a 检测到了Web应用下的重要文件变化 web.xml 
+12 20, 2020 22:32:10 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 22:32:10 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 22:32:10 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 51 ms
+12 20, 2020 22:32:10 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+12 20, 2020 23:00:40 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 224 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 10 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 2 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 1 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 6 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 23:03:15 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+12 20, 2020 23:03:23 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:04:55 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@3b31df9a 检测到了Web应用下的重要文件变化 HelloServlet.class 
+12 20, 2020 23:04:55 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 23:04:55 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:04:55 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 14 ms
+12 20, 2020 23:04:55 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+12 20, 2020 23:05:03 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:05:51 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:08:32 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 155 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 7 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 5 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 23:08:45 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+12 20, 2020 23:08:52 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:09:49 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 188 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 8 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 2 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 4 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 8 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in1 ms
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 23:10:17 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 5 ms
+12 20, 2020 23:10:28 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:11:47 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@3b31df9a 检测到了Web应用下的重要文件变化 web.xml 
+12 20, 2020 23:11:47 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 23:11:47 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:11:47 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 39 ms
+12 20, 2020 23:11:47 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/j2ee has finished in 162 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/a has finished in 6 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/webapps/ROOT has finished in 1 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/DiyTomcat/b has finished in 2 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 33 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-12-15 10:44:47
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.16
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Arichitecture:		x86_64
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_181-b13
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Service init
+INFO : Initialization processed in0 ms
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+12 20, 2020 23:23:03 下午 cn.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+12 20, 2020 23:23:11 下午 cn.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:41)
+	at cn.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:39)
+	at cn.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+12 20, 2020 23:32:03 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@76d0a8ff 检测到了Web应用下的重要文件变化 web.xml 
+12 20, 2020 23:32:03 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 23:32:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:32:03 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 87 ms
+12 20, 2020 23:32:03 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+12 20, 2020 23:33:23 下午 cn.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.diytomcat.watcher.ContextFileChangeWatcher@b26a45e 检测到了Web应用下的重要文件变化 web.xml 
+12 20, 2020 23:33:23 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+12 20, 2020 23:33:23 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/yangjingbo/IdeaProjects/javaweb/web
+12 20, 2020 23:33:23 下午 cn.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/yangjingbo/IdeaProjects/javaweb/web has finished in 22 ms
+12 20, 2020 23:33:23 下午 cn.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
